@@ -1,25 +1,19 @@
 {
   "files": {
     "main.css": "/JairoPJM/react-portfolio-20/static/css/main.c52b587b.css",
-    "main.js": "/JairoPJM/react-portfolio-20/static/js/main.f8612bc3.js",
+    "main.js": "/JairoPJM/react-portfolio-20/static/js/main.94cddf18.js",
     "static/js/377.f19672c8.chunk.js": "/JairoPJM/react-portfolio-20/static/js/377.f19672c8.chunk.js",
-    "static/media/flash-beats-image.gif": "/JairoPJM/react-portfolio-20/static/media/flash-beats-image.dcd02a7353abef6cb851.gif",
-    "static/media/living-real-image.png": "/JairoPJM/react-portfolio-20/static/media/living-real-image.97826efd83613a4add50.png",
-    "static/media/recent-photo.jpg": "/JairoPJM/react-portfolio-20/static/media/recent-photo.9d65474bae4a88c7c3d4.jpg",
-    "static/media/webpage-screenshot.png": "/JairoPJM/react-portfolio-20/static/media/webpage-screenshot.31eb4b6c2b2c094f266f.png",
     "static/media/weather-dashboard-image.png": "/JairoPJM/react-portfolio-20/static/media/weather-dashboard-image.23797370ef5517d07799.png",
-    "static/media/budget-tracker-image.png": "/JairoPJM/react-portfolio-20/static/media/budget-tracker-image.58cb45d09439671728e0.png",
-    "static/media/auto-tracker-image.png": "/JairoPJM/react-portfolio-20/static/media/auto-tracker-image.b43f2f3cab833f6be953.png",
     "static/media/password-generator-image.png": "/JairoPJM/react-portfolio-20/static/media/password-generator-image.989cc2dfb9156017c12d.png",
     "static/media/note-taker-image.png": "/JairoPJM/react-portfolio-20/static/media/note-taker-image.704b6d82c169a0e5e3fa.png",
     "static/media/Capture1.PNG": "/JairoPJM/react-portfolio-20/static/media/Capture1.464413afb13747515027.PNG",
     "index.html": "/JairoPJM/react-portfolio-20/index.html",
     "main.c52b587b.css.map": "/JairoPJM/react-portfolio-20/static/css/main.c52b587b.css.map",
-    "main.f8612bc3.js.map": "/JairoPJM/react-portfolio-20/static/js/main.f8612bc3.js.map",
+    "main.94cddf18.js.map": "/JairoPJM/react-portfolio-20/static/js/main.94cddf18.js.map",
     "377.f19672c8.chunk.js.map": "/JairoPJM/react-portfolio-20/static/js/377.f19672c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c52b587b.css",
-    "static/js/main.f8612bc3.js"
+    "static/js/main.94cddf18.js"
   ]
 }
