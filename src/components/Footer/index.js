@@ -6,8 +6,8 @@ function Footer() {
 			<div>
 				<a
 					href="https://github.com/JairoPJM"
-					target="wdw"
-					rel="dwadwawd"
+					target="_blank"
+					rel="noopener noreferrer"
 				>
 					<img
 						src={require("../../assets/logos/github-logo.png")}
@@ -19,8 +19,8 @@ function Footer() {
 			<div>
 				<a
 					href="https://www.linkedin.com/in/jairo-macassi-10536914a/"
-					target="wdw"
-					rel="dwadwawd"
+					target="_blank"
+					rel="noopener noreferrer"
 				>
 					<img
 						src={require("../../assets/logos/linkedin-logo.png")}
@@ -32,8 +32,8 @@ function Footer() {
 			<div>
 				<a
 					href="https://twitter.com/itsjairoo"
-					target="wdw"
-					rel="dwadwawd"
+					target="_blank"
+					rel="noopener noreferrer"
 				>
 					<img
 						src={require("../../assets/logos/twitter-logo.png")}
